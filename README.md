@@ -14,6 +14,8 @@ cd android
 cd ..
 flutter run
 
+4. APK: descargar del drive: https://drive.google.com/file/d/1GalWOeB8sVXS_gQ3P_Te6o8jVQsmtc-B/view?usp=sharing
+
 Enjoy it!!
 
 ![test](https://github.com/user-attachments/assets/485debeb-34c6-446e-9952-ed5c2930dd1e)
